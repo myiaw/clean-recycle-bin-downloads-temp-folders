@@ -1,4 +1,4 @@
-# dynamic-clean-downloads-folder
+# clean-recycle-bin-downloads-temp-folders 
 simple script that deletes everything in the users downloads folder.
 
 # Windows Automation:
