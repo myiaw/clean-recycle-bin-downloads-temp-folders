@@ -1,5 +1,5 @@
 # clean-recycle-bin-downloads-temp-folders 
-simple script that deletes everything in the users downloads folder.
+simple script that deletes everything in the users downloads and temp folder. Also cleans recycle bin.
 
 # Windows Automation:
 1. Open Task Scheduler
